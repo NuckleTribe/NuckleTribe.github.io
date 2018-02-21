@@ -1,7 +1,6 @@
 @font-face {
   font-family:EarthboundImport;
-  src:url("Earthbound.ttf")
-}
+  src: url(./css/fonts/Earthbound.ttf);
 
 
 #main
